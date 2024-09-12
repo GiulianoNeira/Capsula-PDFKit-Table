@@ -27,5 +27,7 @@ Este proyecto utiliza PDFKit-Table para crear pdf a través de una API.
    ```bash
    Poner 'localhost:3000/api/pdf' en la url
    y realizar una petición get
+   te dara la opcion de guardar el documento llamado "reporte"
+   luego de ello podras abrirlo y verficar que se realizo.
 
 
